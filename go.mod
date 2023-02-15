@@ -1,3 +1,3 @@
-module github.com/glatham1/CloudNativeCourse/Lab5/movieapi
+module github.com/glatham1/CloudNativeCourse
 
 go 1.19
